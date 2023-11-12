@@ -12,7 +12,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #2f363e;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICoqZOjaQ9DOO2UJinG6bbeI723tDqJWUow&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
